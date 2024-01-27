@@ -1,5 +1,5 @@
 👋 Hey There, I'm Halil Ilyas Kap
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aliyagiztar.aliyagiztar" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Halililyas.Halililyas" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ali+Yağız+Tar!;" />
 </h1>
